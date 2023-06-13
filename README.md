@@ -1,3 +1,5 @@
+# Wnba Stats App
+Making a react app that displays the last 10 stats of wnba player as a graph.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
